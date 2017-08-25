@@ -58,7 +58,7 @@
         <div class="flex-center position-ref full-height">
             <div class="content">
                 <div class="title m-b-md">
-                    Front Page
+                    Front Page Bosunski
                 </div>
                 <p>Would be available soon along with the footer and header</p>
                 <p>Please Don't Override someone's work, pull before you push - Team1</p>
